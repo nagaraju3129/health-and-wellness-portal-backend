@@ -1,0 +1,13 @@
+package com.healthCare.FSAD;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FsadApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
